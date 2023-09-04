@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start":"npx vite"
+  },
+  "dependencies": {
+    "cesium": "^1.108.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
